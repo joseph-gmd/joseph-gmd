@@ -17,7 +17,7 @@ I'm a passionate Web Developer with a focus on Frontend. Currently, I'm diving d
 I’m always open to new projects, collaborations, or just chatting about web development. Feel free to reach out if you're interested in building something amazing together. 🚀
 
 ## 📫 How to Reach Me
-- Personal Website: [joseph-gmd.github.io]  
+- Personal Website: [www.joseph-gmd.github.io]  
 - LinkedIn: [www.linkedin.com/in/joseph-gerard-diaz-b28039253]  
 
 Looking forward to connecting and collaborating with you! 🔥
